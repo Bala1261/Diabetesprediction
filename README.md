@@ -1,1 +1,1 @@
-https://drive.google.com/drive/folders/1E42mXMJBK1Nyakh6Zami56EVUn_obLip
+This project implements a machine learning model to predict diabetes based on patient health metrics. The dataset used is the Pima Indians Diabetes Dataset, which contains various health indicators like glucose levels, blood pressure, BMI, and more. The model is trained using Logistic Regression and evaluated based on accuracy, confusion matrix, and classification report.
